@@ -1,3 +1,3 @@
 # p5js
-# opdracht 1,2,3 (allemaal in 1)[sketch.js](https://41628.hosts1.ma-cloud.nl/web/psjs/get-started/sketch.js)
+# opdracht 1,2,3 (allemaal in 1)[sketch.js](https://41628.hosts1.ma-cloud.nl/psjs/get-started/sketch.js)
  
